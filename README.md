@@ -1,16 +1,26 @@
-## Hi there 👋
+<h2 align="center">yo, I write low-level code.</h2>
 
-<!--
-**le-hachem/le-hachem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎼 <b>Composer • Conductor • Pianist</b><br>
+⚛️ <b>Theoretical Physicist • Mathematician</b>
+</p>
 
-Here are some ideas to get you started:
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td align="left" valign="middle" width="50%">
+      <blockquote style="margin:0; font-size:1.1em;">
+        "I'll find you in the morning sun, and when the night is new, I'll be looking at the moon, I'll be seeing you." -Irving Kahal
+      </blockquote>
+    </td>
+    <td align="center" valign="middle" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-hachem&layout=compact&theme=dark&hide_borders=true" />
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building projects that mix low-level coding with physics and math-stuff cause its fun. <a href="mailto:contact@hachem.cc">hmu.</a>
+
+peep my stuff
+<a href="https://hachem.cc" target="_blank">
+  here.
+</a>
