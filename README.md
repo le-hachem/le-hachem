@@ -13,7 +13,7 @@
       </blockquote>
     </td>
     <td align="center" valign="middle" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-hachem&layout=compact&theme=dark&hide_borders=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-hachem&layout=compact&theme=transparent&hide_border=true" />
     </td>
   </tr>
 </table>
