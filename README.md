@@ -20,7 +20,6 @@
 
 I'm building projects that mix low-level coding with physics and math-stuff cause its fun. <a href="mailto:contact@hachem.cc">hmu.</a>
 
-peep my stuff
-<a href="https://e-z.bio/hachem" target="_blank">
-  here.
-</a>
+:eyes: peep my stuff <a href="https://e-z.bio/hachem" target="_blank">here.</a>
+
+⛏️ mc ign: `LeHachem`
