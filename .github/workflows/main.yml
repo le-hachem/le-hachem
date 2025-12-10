@@ -1,0 +1,20 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Waka - Readme
+        uses: athul/waka-readme@v0.3.1
+        with:
+          GH_TOKEN: ${{ github.token }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TIME: false
